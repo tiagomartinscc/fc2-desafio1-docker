@@ -19,9 +19,5 @@ Lembrando que a Go Lang possui imagens oficiais prontas, vale a pena consultar o
 ### ❓ Executando o projeto
 
 ```bash
-# github
-git clone https://github.com/tiagomartinscc/fc2-desafio1-docker
-
-# execute no container
-docker run --rm tiagomartinscc/codeeducation
+docker run tiagomartinscc/codeeducation
 ```
