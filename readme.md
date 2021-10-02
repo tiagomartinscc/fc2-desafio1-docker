@@ -22,5 +22,7 @@ Lembrando que a Go Lang possui imagens oficiais prontas, vale a pena consultar o
 docker run tiagomartinscc/codeeducation
 ```
 
-<img src="https://raw.github.com/tiagomartinscc/assets/Imagem.png" alt="imagem docker-hub" />
+### Tamanho da imagem ficou menor que 2 megas
+
+<img src="https://raw.githubusercontent.com/tiagomartinscc/fc2-desafio1-docker/main/assets/Imagem.PNG" alt="imagem docker-hub" />
 
