@@ -21,3 +21,6 @@ Lembrando que a Go Lang possui imagens oficiais prontas, vale a pena consultar o
 ```bash
 docker run tiagomartinscc/codeeducation
 ```
+
+<img src="https://raw.github.com/tiagomartinscc/assets/Imagem.png" alt="imagem docker-hub" />
+
